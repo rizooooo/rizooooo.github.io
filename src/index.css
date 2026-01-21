@@ -1,0 +1,8 @@
+body {
+  -webkit-font-smoothing: antialiased; /* Makes text look smoother on Mac */
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.timeline-border {
+  border-left: 2px solid #dee2e6;
+}
